@@ -1,6 +1,6 @@
-identity = (el,cb) -> 
-  rt = -> cb(el)
-  setTimeout rt,100
+identity = (el,callback) -> 
+  delayed = -> cb(el)
+  setTimeout delayed,100
   
 
 container=[]
