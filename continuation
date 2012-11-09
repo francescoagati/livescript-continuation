@@ -1,0 +1,6 @@
+(function(){
+  var fs;
+  fs = require('fs');
+  fs.readFile("prova.ls", "utf-8", cont(err, contents));
+  console.log(contents);
+}).call(this);
