@@ -1,4 +1,5 @@
-An expmeriment for using Continuation-passing style with livescript.
+An expmeriment for using Continuation-passing style with livescript using [livescript](http://livescript.net/) and [continuation.js](https://github.com/BYVoid/continuation)
+
 
 
 config:
