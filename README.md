@@ -25,6 +25,7 @@ identity = (el,cb) ->
 container=[]
 
 for n in [1 to 100]
+  # cont(x) is the continuation that put the value of cb function inside x
   identity(n,cont(x))
   container.push(x) if x > 50
 
