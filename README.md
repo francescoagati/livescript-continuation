@@ -1,6 +1,8 @@
 An expmeriment for using Continuation-passing style with livescript using [livescript](http://livescript.net/) and [continuation.js](https://github.com/BYVoid/continuation)
 
 
+for more comples examples: 
+  [https://gist.github.com/4047984#file_continuation.ls](https://gist.github.com/4047984#file_continuation.ls)
 
 config:
 
